@@ -17,7 +17,7 @@
 Please follow the instructions below to install the repo and dependencies.
 
 ```bash
-git clone https://github.com/fudan-zvg/DG-SLAM.git
+git clone https://github.com/LogosIntelligenceLab/DG-SLAM.git
 cd DG-SLAM
 ```
 
