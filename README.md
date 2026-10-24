@@ -77,4 +77,4 @@ If you find our code or paper useful for your research, please consider citing:
 Thanks to previous open-sourced repo: [3D-GS](https://github.com/graphdeco-inria/gaussian-splatting), [Point-SLAM](https://github.com/eriksandstroem/Point-SLAM), [DROID-SLAM](https://github.com/princeton-vl/DROID-SLAM), [SplaTAM](https://github.com/spla-tam/SplaTAM).
 
 ## Contact
-Contact [Yueming Xu](xuyueming21@m.fudan.edu.cn) and [Haochen Jiang](jianghc1995@gmail.com) for questions, comments and reporting bugs.
+Contact [Yueming Xu](mailto:xuyueming21@m.fudan.edu.cn) and [Haochen Jiang](mailto:jianghc1995@gmail.com) for questions, comments and reporting bugs.
